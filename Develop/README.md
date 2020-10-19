@@ -1,7 +1,0 @@
-
-
-
-# note-takin is a simple two page note taking app using Node with Express routes, and uuid to create, save, and display notes, read those notes by clicking on the them in the item list, and delete them by clicking on an icon. Notes are saved to a local json file, along with an id, provided by the uuid module. An improvement to this project would be to add an update function and put method to update notes. A time stamp and scheduler would also enhance its functionality. 
-
-
-# to use, open a terminal in the server.js file and run npm i to install node modules. Navagate to localhost at the assigned port number and use the UI.
